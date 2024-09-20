@@ -1,4 +1,4 @@
-package com.company.basicBoard.domain.model;
+package com.company.basicBoard.domain.board.model;
 
 import lombok.Data;
 
